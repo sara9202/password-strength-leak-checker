@@ -57,6 +57,8 @@ Here’s an example of the tool testing different password strengths:
 
 ![CLI Output Screenshot](docs/screenshots/password-check.png)
 
+*Figure 1: CLI output showing password entropy and strength analysis results.*
+
 ---
 
 ## 📂 Project Structure
