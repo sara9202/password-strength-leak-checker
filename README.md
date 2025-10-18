@@ -1,6 +1,6 @@
 # 🔐 Password Strength & Leak Checker (Python)
 
-A **local, privacy-first cybersecurity tool** that evaluates password strength and checks for leaked passwords **without using the internet**.  
+A **local, privacy first cybersecurity tool** that evaluates password strength and checks for leaked passwords **without using the internet**.  
 Built entirely in Python as a personal cybersecurity learning project.
 
 ---
