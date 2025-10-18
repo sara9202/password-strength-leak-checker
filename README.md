@@ -55,7 +55,7 @@ python -m src.pwchecker.cli
 Here’s an example of the tool testing different password strengths:
 
 
-![CLI Output Screenshot](docs/screenshots/cli_output.png)
+![CLI Output Screenshot](docs/screenshots/password-check.png)
 
 ---
 
